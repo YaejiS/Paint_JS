@@ -1,1 +1,1 @@
-# paint
+# Paint board in JS
